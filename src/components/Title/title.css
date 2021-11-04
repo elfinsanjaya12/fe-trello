@@ -1,0 +1,5 @@
+.list-title {
+  cursor: pointer;
+  padding: 10px;
+  overflow-wrap: break-word;
+}

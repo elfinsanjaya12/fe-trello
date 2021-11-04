@@ -1,0 +1,55 @@
+.edit-buttons {
+  display: flex;
+}
+
+.edit-button {
+  cursor: pointer;
+  box-shadow: 0 1px 0 0 #3f6f21;
+  width: fit-content;
+  margin: 0 5px 10px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  outline: none;
+}
+
+.edit-button:hover {
+  opacity: 0.7;
+}
+
+.edit-button-cancel {
+  cursor: pointer;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  opacity: 0.5;
+  outline: none;
+}
+
+.edit-button-cancel:hover {
+  opacity: 1;
+}
+
+.edit-card .card {
+  min-height: 50px;
+  padding-left: 8px;
+  padding-right: 15px;
+}
+
+.edit-card .card:hover {
+  background: white;
+}
+
+.edit-card-textarea {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  min-height: 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 300px;
+  border: none;
+  resize: none;
+  outline: none;
+  font-size: 15px;
+}
