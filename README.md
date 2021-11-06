@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Judul : Clone Trello Dengan Menggunakan MERN Stack (Tutorial Bahasa Indonesia)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tentang Proyek ini
+> * MERN Stack adalah singkatan dari beberapa teknologi pengembang : M untuk Mysql (Database); E untuk Express (Framework); R untuk ReactJS (FE); dan NodeJS (core BE).
+MERN adalah pengembangan website dengan bahasa pemrograman Javascript, Javascript telah dikenal sangat populer dan fleksibel karena dapat digunakan bersamaan dengan bahasa pemrograman lain. Mampu bekerja pada sisi Frontend dan Backend sekaligus.
+Pada tutorial ini, kita akan membuat project berupa website clone trello. Materi dimulai dari sisi BE antara lain membuat CRUD REST API Todos dan Items, membuat validation dengan menggunakan library express-validator, FE slicing website trello, integrasi API CRUD todos dan items, lalu yang terakhir upload project BE di heroku dan juga upload FE di vercel.
+selamat belajar.*
 
-## Available Scripts
+## Source Code
+- Backend : https://github.com/elfinsanjaya12/be-trello
+- Frontend : https://github.com/elfinsanjaya12/fe-trello
 
-In the project directory, you can run:
 
-### `yarn start`
+## Materi Video :
+- 00:00.70 Introduction 
+- 00.01:34 Technology
+- 00.03.15 Tools
+- 00.05.01 ERD
+- 00.05.44 Backend (Setup Express JS)
+- 00.20.43 Backend (Setup Sequelize & Mysql)
+- 00.42.13 Backend (CRUD Todos)
+- 01.06.06 Backend (Express Validator Todos)
+- 01.22.50 Backend (Handle Error)
+- 01.27.17 Backend (CRUD Items)
+- 01.40.40 Backend (Express Validator Items)
+- 01.47.23 Frontend (Setup React JS & Slicing)
+- 02.26.24 Frontend (Integration API CRUD Todos)
+- 02.40.06 Backend (Install CORS)
+- 02.21.03 Frontend (Lanjut Integration API CRUD Todos)
+- 02.55.38 Frontend (Integration API CRUD Items)
+- 03.42.57 Deploy Backend & Frontend
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#codeathome #mern #mernstack #nodejs #reactjs #expressjs #mysql #trello #coding #developer #programing #javascript
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## DISCORD : https://discord.gg/8enGHX46
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Social Media :
+- Instagram : https://www.instagram.com/codeathome
